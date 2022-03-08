@@ -1,0 +1,20 @@
+import 'dart:ui';
+
+Color homePageBackground=const Color(0xFFfbfcff);
+Color gradientFirst=const Color(0xff0f17ad);
+Color gradientSecond=const Color(0xFF6985e8);
+Color homePageTitle=const Color(0xFF302f51);
+Color homePageSubtitle=const Color(0xFF414160);
+Color homePageDetail=const Color(0xFF6588f4);
+Color homePageIcons=const Color(0xFF3b3c5c);
+Color homePageContainerTextSmall=const Color(0xFFf4f5fd);
+Color homePageContainerTextBig=const Color(0xFFffffff);
+Color homePagePlanColor=const Color(0xFFa2a2b1);
+Color secondPageTopIconColor= const Color(0xFFb7bce8);
+Color secondPageTitleColor= const Color(0xFFfefeff);
+Color secondPageContainerGradient1stColor= const Color(0xFF5564d8);
+Color secondPageContainerGradient2ndColor= const Color(0xFF6279dc);
+Color secondPageIconColor= const Color(0xFFfafafe);
+Color loopColor = const Color(0xFF6d8dea);
+Color setsColor = const Color(0xFF9999a9);
+Color circuitsColor = const Color(0xFF2f2f51);
